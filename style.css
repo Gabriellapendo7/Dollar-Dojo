@@ -57,19 +57,3 @@ header {
 .navigation .btnLogin-popup:hover {
     background-color: white;
 }
-.wrapper {
-    color: black;
-    position: relative;
-    width: 540px;
-    height: 440px;
-    background: transparent;
-    /* style border */
-    border: 2px solid;
-    padding: 90px;
-    border-radius: 20px;
-    backdrop-filter: blur(20px);
-    box-shadow: 0 0 30px rgba(0,0,0,5);
-    align-items: center;
-
-
-}
