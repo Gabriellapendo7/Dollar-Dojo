@@ -300,31 +300,31 @@ html{
     margin-right: 5px;
 }
 
-/* Portfolio Section Styling  */
-#portfolio{
+/* Account Section Styling  */
+#account{
     background: #0A2940;
 }
-.portfolio h3{
+.account h3{
     color: #95A2BB;
     font-size: 14px;
     padding-bottom: 20px;
     text-transform: uppercase;
 }
-.portfolio h2{
+.account h2{
     font-size: 40px;
     font-weight: 600;
     color: #95A2BB;
     margin-bottom: 20px;
 }
-.portfolio h2 span{
+.account h2 span{
     font-weight: 500;
 }
-.portfolio p{
+.account p{
     color: #95A2BB;
     line-height: 1.6;
     margin-bottom: 100px;
 }
-.owl-carousel .item img{
+.owl-carousel .item {
     display: block;
     width: 700px;
     height: 300px;
